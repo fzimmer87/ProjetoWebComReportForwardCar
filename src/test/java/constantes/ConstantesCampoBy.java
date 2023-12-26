@@ -67,7 +67,7 @@ public class ConstantesCampoBy {
         Thread.sleep(1000);
         driver.findElement(campoLastName).sendKeys("Zimmer");
         Thread.sleep(1000);
-        driver.findElement(campoUsername).sendKeys("zimmer14");
+        driver.findElement(campoUsername).sendKeys("zimmer15");
         Thread.sleep(1000);
         driver.findElement(campoPassword).sendKeys("1234");
         Thread.sleep(1000);
