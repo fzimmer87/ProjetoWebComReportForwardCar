@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a837d-172f-4396-a407-0af6c3643984" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/configHook/Hook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/configHook/LerProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/constantes/ConstantesCampoBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/constantes/ConstantesFordWardCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/forward.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/drivers.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/url.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/constantes/ConstantesCampoBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/constantes/ConstantesCampoBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/drivers.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/drivers.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
