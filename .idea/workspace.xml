@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a837d-172f-4396-a407-0af6c3643984" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/resorce.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/spark-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ evidencias.reports/relatorio-html.html" beforeDir="false" afterPath="$PROJECT_DIR$/ evidencias.reports/relatorio-html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyStepdefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/configHook/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/configHook/Hook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/constantes/ConstantesCampoBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/constantes/ConstantesCampoBy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/resorce.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,11 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Fernanda\ProjetosEstagioJava\ProjetoWebComReportForwardCar\src\test\resources" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.Runner">
     <configuration name="Scenario: Realizar primeiro registro" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />

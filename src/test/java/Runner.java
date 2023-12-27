@@ -8,8 +8,8 @@ import org.junit.runner.RunWith;
         features = {
                 "C:\\Fernanda\\ProjetosEstagioJava\\ProjetoWebComReportForwardCar\\src\\test\\resources\\feature\\forward.feature",
         },
-        plugin = {"pretty",
-                "html: evidencias.reports/relatorio-html.html"
+        plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter: "
+//                "html: evidencias.reports/relatorio-html.html"
         },
         tags = "@CT001"
 )
